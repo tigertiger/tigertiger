@@ -1,6 +1,6 @@
 <div align="center">
 
-🌟- I’m currently a full-time student at [Epicodus](https://www.epicodus.com/), on the C#/React track -🌟
+🌟- Hi! -🌟
 
   <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tigertiger&theme=tokyonight&show_icons=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
