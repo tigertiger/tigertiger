@@ -1,20 +1,17 @@
-<div align="center">
+### `hi, i'm melissa.`
 
-🌟- Hi! -🌟
+<img src="https://user-images.githubusercontent.com/5186289/158728047-88f66a90-1533-43e6-af10-e9f95d485fb8.png" width="400" />
 
-  <!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tigertiger&theme=tokyonight&show_icons=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://media.giphy.com/media/gdhkwpT4uwstrmklid/giphy.gif" width="300" />
+### `languages/frameworks & skills`
 
-**tigertiger/tigertiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`🌈  javascript/jquery  🪲  angularjs  ` 
 
-Here are some ideas to get you started:
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-</div>
+`🌿   react & redux  🌷  html  `
+
+`🐝   css/scss  🌙   c#/.net & entity framework  `
+
+`🦠   apis  🔮  sql/nosql  `
+
+`🍃   video editing  🍉   adobe creative suite`
+
+
