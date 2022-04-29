@@ -7,7 +7,7 @@
 
 ### `languages/frameworks & skills`
 
-`🌈  javascript/jquery  🪲  angularjs  ` 
+`🌈  javascript/jquery/typescript  🪲  angularjs  ` 
 
 `🌿   react & redux  🌷  html  `
 
