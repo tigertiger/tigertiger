@@ -9,11 +9,11 @@
 
 `🌈  javascript/jquery/typescript  🪲  angularjs  ` 
 
-`🌿   react & redux  🌷  html  `
+`🌿   java  🌷  html  `
 
 `🐝   css/scss  🌙   c#/.net & entity framework  `
 
-`🦠   apis  🔮  sql/nosql  `
+`🦠   rest apis  🔮  sql/nosql  `
 
 `🍃   video editing  🍉   adobe creative suite`
 
